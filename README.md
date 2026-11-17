@@ -8,7 +8,7 @@
 
 👉 **[athayogaagnes.fr](https://athayogaagnes.fr/)**
 
-Site vitrine d'une professeure de Hatha Yoga et de yogathérapie, **entièrement conçu et développé par moi**.
+Site vitrine d'une professeure de Yoga et de yogathérapie, **entièrement conçu et développé par moi**.
 
 - Pages : accueil, à propos, cours collectifs, yogathérapie, capsules vidéo, événements et actualités, contact
 - Développé avec **Next.js**, hébergé sur **Vercel**, avec un nom de domaine personnalisé
